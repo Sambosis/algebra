@@ -1,0 +1,89 @@
+{
+  "C:\\repo\\algebra\\app.py": {
+    "created_at": "2024-12-04T12:17:07.702650",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T12:17:07.702650",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:09:59.131589",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:21:07.371174",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\data\\problems.json": {
+    "created_at": "2024-12-04T12:17:33.792250",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T12:17:33.792250",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:11:19.420430",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:21:27.222327",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\requirements.txt": {
+    "created_at": "2024-12-04T13:09:44.687533",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T13:09:44.687533",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\templates\\index.html": {
+    "created_at": "2024-12-04T13:10:14.312463",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T13:10:14.312463",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:21:47.759599",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\static\\css\\style.css": {
+    "created_at": "2024-12-04T13:10:32.117838",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T13:10:32.117838",
+        "operation": "create"
+      },
+      {
+        "timestamp": "2024-12-04T13:22:12.935685",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\static\\js\\script.js": {
+    "created_at": "2024-12-04T13:10:54.810464",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T13:10:54.810464",
+        "operation": "create"
+      }
+    ]
+  },
+  "C:\\repo\\algebra\\static\\js\\main.js": {
+    "created_at": "2024-12-04T13:22:46.797742",
+    "operations": [
+      {
+        "timestamp": "2024-12-04T13:22:46.797742",
+        "operation": "create"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Error - Algebra Learning Game{% endblock %}
+
+{% block content %}
+<div class="error-container">
+    <div class="error-content">
+        <h1 class="error-title">{{ error_title|default('Oops!') }}</h1>
+        <div class="error-message">
+            {{ error_message|default('Something went wrong. Let\'s get back on track!') }}
+        </div>
+        <div class="error-details">
+            {% if error_details %}
+            <p>{{ error_details }}</p>
+            {% endif %}
+        </div>
+        <div class="error-actions">
+            <a href="{{ url_for('index') }}" class="btn btn-primary">Return to Game</a>
+            {% if show_retry %}
+            <button onclick="window.location.reload()" class="btn btn-secondary">Try Again</button>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // Error page specific interactions
+    document.addEventListener('DOMContentLoaded', function() {
+        console.log('Error page loaded');
+        // Add any error-specific client-side logic here
+    });
+</script>
+{% endblock %}

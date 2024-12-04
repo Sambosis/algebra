@@ -1,0 +1,50 @@
+{
+    "7": [
+        {
+            "id": "7_1",
+            "problem": "Solve for x: 2x + 5 = 13",
+            "correct_answer": "4",
+            "hints": ["Subtract 5 from both sides", "Divide both sides by 2"],
+            "explanation": "1. Subtract 5 from both sides: 2x = 8\n2. Divide both sides by 2: x = 4",
+            "difficulty": 1
+        },
+        {
+            "id": "7_2",
+            "problem": "What is -3 × (-6)?",
+            "correct_answer": "18",
+            "hints": ["Remember, negative × negative = positive"],
+            "explanation": "When multiplying two negative numbers, the result is positive.\n-3 × (-6) = 18",
+            "difficulty": 1
+        }
+    ],
+    "8": [
+        {
+            "id": "8_1",
+            "problem": "Solve the system:\nx + y = 7\nx - y = 3",
+            "correct_answer": "5,2",
+            "hints": ["Add the equations", "Subtract the equations"],
+            "explanation": "1. Adding equations: 2x = 10, so x = 5\n2. Substitute x=5: 5 + y = 7, so y = 2",
+            "difficulty": 2
+        }
+    ],
+    "9": [
+        {
+            "id": "9_1",
+            "problem": "Solve: x² - 5x + 6 = 0",
+            "correct_answer": "2,3",
+            "hints": ["This can be factored", "Think (x-a)(x-b)"],
+            "explanation": "1. Factor: (x-2)(x-3) = 0\n2. Solutions: x = 2 or x = 3",
+            "difficulty": 3
+        }
+    ],
+    "11": [
+        {
+            "id": "11_1",
+            "problem": "Solve: log₂(x) = 3",
+            "correct_answer": "8",
+            "hints": ["2³ = ?"],
+            "explanation": "If log₂(x) = 3, then x = 2³ = 8",
+            "difficulty": 4
+        }
+    ]
+}
